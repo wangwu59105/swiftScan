@@ -14,7 +14,7 @@ import AVFoundation
 class MainTableViewController: UITableViewController,UIImagePickerControllerDelegate,UINavigationControllerDelegate {
     
     var arrayItems:Array<Array<String>> = [
-    ["模拟qq扫码界面","qqStyle"],
+    ["模拟qq扫码界面", "qqStyle"],
     ["模仿支付宝扫码区域","ZhiFuBaoStyle"],
     ["模仿微信扫码区域","weixinStyle"],
     ["无边框，内嵌4个角","InnerStyle"],
