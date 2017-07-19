@@ -4,7 +4,7 @@
 //
 //  Created by lbxia on 15/12/9.
 //  Copyright © 2015年 xialibing. 
-//All rights reserved.
+//    All rights reserved.
 //
 
 import UIKit
